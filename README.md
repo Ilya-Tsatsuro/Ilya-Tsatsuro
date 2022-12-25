@@ -1,7 +1,7 @@
 # Ilia Tsatsuro 
 ## Software tester
 
-![](https://raw.githubusercontent.com/Ilya-Tsatsuro/Ilya-Tsatsuro/main/assets/QA-Engineer-940x528.webp)
+![](https://github.com/Ilya-Tsatsuro/Ilya-Tsatsuro/blob/main/assets/Software%20tester.png)
 
 
 ## About me 
