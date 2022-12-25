@@ -2,7 +2,7 @@
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: %;"
+           width: 100%;"
     src="https://github.com/Ilya-Tsatsuro/Ilya-Tsatsuro/blob/main/assets/Software%20tester.png?raw=true" 
     alt="Our logo">
 </img>
@@ -13,8 +13,8 @@
 
 ## About me 
 ---
-My name's Ilya Tsatsuro. I'm a beginner Software tester (QA Engineer).  
-For 7 years I was a project manager in the field of energy and construction. Now I'm looking for myself in the IT industry.
+My name is Ilya Tsatsuro.  
+For 7 years I have been a project manager in the field of energy and construction. Now I am looking for myself as a software tester, and I believe that together, we will make your product better.
 
 ## Portfolio
 ---
