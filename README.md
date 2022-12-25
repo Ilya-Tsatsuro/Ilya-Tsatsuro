@@ -30,11 +30,11 @@ For 7 years I have been a project manager in the field of energy and constructio
 
 ## Languages and Tools
 ---
-![JIRA](https://img.shields.io/badge/-JIRA-FFFFFF?style=for-the-badge&logo=JIRA&&logoColor=2584FF) 
+![JIRA](https://img.shields.io/badge/-JIRA-C2C4C7?style=for-the-badge&logo=JIRA&&logoColor=2584FF) 
 ![HTML](https://img.shields.io/badge/-HTML-1F1F1F?style=for-the-badge&logo=HTML&&logoColor=FFFFFF)
 ![Dev Tools for web browsers](https://img.shields.io/badge/-Dev_Tools_for_web_browsers-1967D2?style=for-the-badge&logo=Charlesproxy&&logoColor=FFFFFF)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=PostgreSQL&&logoColor=336791)
+![SQL](https://img.shields.io/badge/-SQL-9CC2E6?style=for-the-badge&logo=PostgreSQL&&logoColor=336791)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-6D98C0?style=for-the-badge&logo=DBeaver&&logoColor=362622)
 ![Terminal](https://img.shields.io/badge/-Terminal-282A36?style=for-the-badge&logo=Terminal&&logoColor=FFFFFF)
 ![Charlesproxy](https://img.shields.io/badge/-Charlesproxy-BBDDEE?style=for-the-badge&logo=Charlesproxy&&logoColor=2A6D7E)
@@ -43,6 +43,6 @@ For 7 years I have been a project manager in the field of energy and constructio
 
 ## My contacts 
 ---
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFFFFF?style=flat-square&logo=LinkedIn&logoColor=0B66C2)](https://www.linkedin.com/in/tsatsuro93/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-C2C4C7?style=flat-square&logo=LinkedIn&logoColor=0B66C2)](https://www.linkedin.com/in/tsatsuro93/) 
 [![Telegram](https://img.shields.io/badge/-Telegram-131415?style=flat-square&logo=Telegram&logoColor=27AAE9)](https://t.me/Ilya_Tsatsuro)
 [![Mail](https://img.shields.io/badge/-Mail-DDDDDD?style=flat-square&logo=Gmail&logoColor=EA4236)](tsatsuro93@gmail.com)
