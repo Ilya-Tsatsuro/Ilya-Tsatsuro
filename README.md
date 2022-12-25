@@ -31,7 +31,7 @@ For 7 years I have been a project manager in the field of energy and constructio
 ## Languages and Tools
 ---
 ![JIRA](https://img.shields.io/badge/-JIRA-C2C4C7?style=for-the-badge&logo=JIRA&&logoColor=2584FF) 
-![HTML](https://img.shields.io/badge/-HTML-1F1F1F?style=for-the-badge&logo=HTML&&logoColor=FFFFFF)
+![HTML](https://img.shields.io/badge/-HTML-1F1F1F?style=for-the-badge&logo=HTML&logoColor=F1C43B)
 ![Dev Tools for web browsers](https://img.shields.io/badge/-Dev_Tools_for_web_browsers-1967D2?style=for-the-badge&logo=Charlesproxy&&logoColor=FFFFFF)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/-SQL-9CC2E6?style=for-the-badge&logo=PostgreSQL&&logoColor=336791)
