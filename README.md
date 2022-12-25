@@ -1,7 +1,11 @@
-<center> ![](https://github.com/Ilya-Tsatsuro/Ilya-Tsatsuro/blob/main/assets/Software%20tester.png) </center>
-
-<img style="float: center;" src="https://github.com/Ilya-Tsatsuro/Ilya-Tsatsuro/blob/main/assets/Software%20tester.png">
-
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: %;"
+    src="https://github.com/Ilya-Tsatsuro/Ilya-Tsatsuro/blob/main/assets/Software%20tester.png?raw=true" 
+    alt="Our logo">
+</img>
 
 ## My CV
 ---
