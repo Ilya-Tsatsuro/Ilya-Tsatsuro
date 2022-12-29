@@ -66,5 +66,5 @@ I'm Ready for challenges, learn quickly and ensure product quality control.
 ---
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-e5e5e5?style=flat-square&logo=LinkedIn&logoColor=0B66C2)](https://www.linkedin.com/in/tsatsuro93/) 
 [![Telegram](https://img.shields.io/badge/-Telegram-e5e5e5?style=flat-square&logo=Telegram&logoColor=27AAE9)](https://t.me/Ilya_Tsatsuro)
-[![Mail](https://img.shields.io/badge/-Mail-e5e5e5?style=flat-square&logo=Gmail&logoColor=EA4236)](tsatsuro93@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CCB59?style=flat-square&logo=WhatsApp&logoColor=FFFFFF)](https://t.me/Ilya_Tsatsuro)
+[![Mail](https://img.shields.io/badge/-Mail-292A2D?style=flat-square&logo=Gmail&logoColor=EA4236)](tsatsuro93@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CCB59?style=flat-square&logo=WhatsApp&logoColor=FFFFFF)](https://wa.me/79210950788 )
