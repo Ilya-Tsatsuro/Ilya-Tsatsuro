@@ -50,12 +50,12 @@ I'm Ready for challenges, learn quickly and ensure product quality control.
 
 ## Языки и инструменты / Languages and Tools
 ---
-![JIRA](https://img.shields.io/badge/-JIRA-e5e5e5?style=for-the-badge&logo=JIRA&&logoColor=2584FF) 
+![JIRA](https://img.shields.io/badge/-JIRA-f7f7f7?style=for-the-badge&logo=JIRA&&logoColor=2584FF) 
 ![TRELLO](https://img.shields.io/badge/-TRELLO-057EC5?style=for-the-badge&logo=TRELLO&&logoColor=FFFFFF) 
 ![HTML](https://img.shields.io/badge/-HTML-1F1F1F?style=for-the-badge&logo=HTML&logoColor=F1C43B)
 ![Dev Tools for web browsers](https://img.shields.io/badge/-Dev_Tools_web_browsers-025243?style=for-the-badge&logo=Charlesproxy&&logoColor=FFFFFF)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/-SQL-e5e5e5?style=for-the-badge&logo=PostgreSQL&&logoColor=336791)
+![SQL](https://img.shields.io/badge/-SQL-f7f7f7?style=for-the-badge&logo=PostgreSQL&&logoColor=336791)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-6D98C0?style=for-the-badge&logo=DBeaver&&logoColor=362622)
 ![Terminal](https://img.shields.io/badge/-Terminal-282A36?style=for-the-badge&logo=Terminal&&logoColor=FFFFFF)
 ![Charlesproxy](https://img.shields.io/badge/-Charlesproxy-BBDDEE?style=for-the-badge&logo=Charlesproxy&&logoColor=2A6D7E)
@@ -64,7 +64,7 @@ I'm Ready for challenges, learn quickly and ensure product quality control.
 
 ## Мои контакты / My contacts 
 ---
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-e5e5e5?style=flat-square&logo=LinkedIn&logoColor=0B66C2)](https://www.linkedin.com/in/tsatsuro93/) 
-[![Telegram](https://img.shields.io/badge/-Telegram-e5e5e5?style=flat-square&logo=Telegram&logoColor=27AAE9)](https://t.me/Ilya_Tsatsuro)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-f7f7f7?style=flat-square&logo=LinkedIn&logoColor=0B66C2)](https://www.linkedin.com/in/tsatsuro93/) 
+[![Telegram](https://img.shields.io/badge/-Telegram-f7f7f7?style=flat-square&logo=Telegram&logoColor=27AAE9)](https://t.me/Ilya_Tsatsuro)
 [![Mail](https://img.shields.io/badge/-Mail-292A2D?style=flat-square&logo=Gmail&logoColor=EA4236)](tsatsuro93@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CCB59?style=flat-square&logo=WhatsApp&logoColor=FFFFFF)](https://wa.me/79210950788 )
