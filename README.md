@@ -15,13 +15,13 @@
 ## Про меня
 ---
 Меня зовут Илья Цацуро.  
-Более 7 лет, Я работал руководителем проектов в области энергетики и строительства.  
+Более 7 лет Я работал руководителем проектов в области энергетики и строительства.  
 Сейчас я развиваю навыки, набираюсь опыта в тестировании ПО, а также изучаю язык программирования (Phyton).  
 Готов к трудностям, быстро обучаться и обеспечить контроль качества продукта.
 ## About me 
 My name is Ilya Tatsuro.  
-For more than 7 years, I worked as a project manager in the field of energy and construction.  
-Now, I am developing skills, gaining experience in software testing, and also learning a programming language (Python).  
+For more than 7 years I worked as a project manager in the field of energy and construction.  
+Now I am developing skills, gaining experience in software testing, and also learning a programming language (Python).  
 I'm Ready for challenges, learn quickly and ensure product quality control.
 
 ## Портфолио (Rus)
