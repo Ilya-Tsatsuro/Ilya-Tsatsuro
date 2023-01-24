@@ -27,7 +27,7 @@ I'm Ready for challenges, learn quickly and ensure product quality control.
 ## Портфолио (Rus)
 ---
 - Тестовая документация (чек-листы, тест- кейсы, багрепорты)
-- [Chrome DevRools](https://github.com/Ilya-Tsatsuro/Devtools_HW.git)
+- [Chrome DevTools](https://github.com/Ilya-Tsatsuro/Devtools_HW.git)
 - [Тестирование API через Postman (JS, автотесты API)](https://github.com/Ilya-Tsatsuro/Postman_HW_2)
 - SQL: 
    - [Select, From, Where](https://github.com/Ilya-Tsatsuro/SQL_HW_1).
@@ -40,7 +40,7 @@ I'm Ready for challenges, learn quickly and ensure product quality control.
 ## Portfolio (Eng)
 ---
 - Test documentation (checklists, test cases, bug reports)
-- [Chrome DevRools](https://github.com/Ilya-Tsatsuro/Devtools_HW.git)
+- [Chrome DevTools](https://github.com/Ilya-Tsatsuro/Devtools_HW.git)
 - [API testing](https://github.com/Ilya-Tsatsuro/Postman_HW_2)
 - SQL: 
    - [Select, From, Where](https://github.com/Ilya-Tsatsuro/SQL_HW_1)
