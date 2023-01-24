@@ -36,6 +36,7 @@ I'm Ready for challenges, learn quickly and ensure product quality control.
 - GitHub: 
    - [Add, Commit, Push, Pull](https://github.com/Ilya-Tsatsuro/GIT_HW_1_XML)
    - [Branch, Checkout, Merge](https://github.com/Ilya-Tsatsuro/GIT_HW_2)
+- [JMeter](https://github.com/Ilya-Tsatsuro/JMeter_HW_1.git)
 
 ## Portfolio (Eng)
 ---
@@ -49,6 +50,7 @@ I'm Ready for challenges, learn quickly and ensure product quality control.
 - GitHub: 
    - [Add, Commit, Push, Pull](https://github.com/Ilya-Tsatsuro/GIT_HW_1_XML)
    - [Branch, Checkout, Merge](https://github.com/Ilya-Tsatsuro/GIT_HW_2)
+- [JMeter](https://github.com/Ilya-Tsatsuro/JMeter_HW_1.git)
 
 ## Языки и инструменты / Languages and Tools
 ---
@@ -62,7 +64,7 @@ I'm Ready for challenges, learn quickly and ensure product quality control.
 ![Terminal](https://img.shields.io/badge/-Terminal-282A36?style=for-the-badge&logo=Terminal&&logoColor=FFFFFF)
 ![Charlesproxy](https://img.shields.io/badge/-Charlesproxy-BBDDEE?style=for-the-badge&logo=Charlesproxy&&logoColor=2A6D7E)
 ![GitHub](https://img.shields.io/badge/-GitHub-161B22?style=for-the-badge&logo=GitHub&&logoColor=F0F6FC)
-![JMeter](https://img.shields.io/badge/-JMeter-D22029?style=for-the-badge&logo=JMeter&&logoColor=000000)
+[![JMeter](https://img.shields.io/badge/-JMeter-D22029?style=for-the-badge&logo=JMeter&&logoColor=000000)](https://github.com/Ilya-Tsatsuro/JMeter_HW_1.git)
 
 
 ## Мои контакты / My contacts 
