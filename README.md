@@ -10,7 +10,7 @@
 ## Мое резюме / My CV
 ---
 [Тестировщик ПО (Rus)](https://drive.google.com/file/d/1fgy5RR6F5Jpb8O_7xAXTp0u_UGiHhAQ1/view?usp=share_link) / 
-[Resume: Software tester (Eng)](https://drive.google.com/file/d/1fgy5RR6F5Jpb8O_7xAXTp0u_UGiHhAQ1/view?usp=share_link)
+[Software tester (Eng)](https://drive.google.com/file/d/1fgy5RR6F5Jpb8O_7xAXTp0u_UGiHhAQ1/view?usp=share_link)
 
 ## Про меня
 ---
